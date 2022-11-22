@@ -1,7 +1,6 @@
 {
   "name": "practic-javascript",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,14 @@
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^8.5.0",
     "prettier": "2.7.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemyev86an/7.02.-NodeJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/artemyev86an/7.02.-NodeJs/issues"
+  },
+  "homepage": "https://github.com/artemyev86an/7.02.-NodeJs#readme",
+  "description": ""
 }
